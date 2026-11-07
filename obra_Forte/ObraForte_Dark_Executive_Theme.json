@@ -1,0 +1,70 @@
+{
+  "name": "ObraForte Dark Executive",
+  "dataColors": [
+    "#F2A900",
+    "#4682B4",
+    "#E65100",
+    "#2E5B88",
+    "#FFD166",
+    "#5C6B73",
+    "#708090",
+    "#00A896"
+  ],
+  "background": "#1E1E1E",
+  "foreground": "#E0E0E0",
+  "tableAccent": "#F2A900",
+  "good": "#00C853",
+  "neutral": "#FFD166",
+  "bad": "#D32F2F",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 24,
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#F2A900"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#FFFFFF"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#B0B0B0"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#252525"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#F2A900"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}

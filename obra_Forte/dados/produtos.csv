@@ -1,0 +1,21 @@
+id_produto,nome_produto,categoria_produto,linha_produto,foto_produto
+P001,Cimento CP-II 50kg,Básicos,Construção Pesada,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P001.png
+P002,Areia Média (m3),Básicos,Agregados,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P002.png
+P003,Brita 1 (m3),Básicos,Agregados,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P003.png
+P004,Argamassa AC-II 20kg,Básicos,Argamassas,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P004.png
+P005,Bloco Cerâmico 9x19x29,Básicos,Alvenaria,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P005.png
+P006,Vergalhão CA-50 10mm,Básicos,Aço e Ferragens,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P006.png
+P007,Tubo PVC 100mm (6m),Hidráulica,Esgoto,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P007.png
+P008,Tubo PVC 25mm (6m),Hidráulica,Água Fria,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P008.png
+P009,Caixa d'Água 1000L,Hidráulica,Reservatórios,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P009.png
+P010,Registro de Gaveta 3/4,Hidráulica,Metais e Registros,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P010.png
+P011,"Fio Flexível 2,5mm (100m)",Elétrica,Condutores,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P011.png
+P012,Disjuntor Bipolar 32A,Elétrica,Proteção Elétrica,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P012.png
+P013,Tomada 2P+T 10A,Elétrica,Interruptores e Tomadas,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P013.png
+P014,Piso Porcelanato 60x60 (m2),Acabamento,Revestimentos,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P014.png
+P015,Tinta Acrílica 18L,Acabamento,Pintura,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P015.png
+P016,Rejunte Flexível 1kg,Acabamento,Argamassas e Rejuntes,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P016.png
+P017,Furadeira de Impacto 650W,Ferramentas,Ferramentas Elétricas,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P017.png
+P018,Betoneira 400L,Ferramentas,Maquinário,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P018.png
+P019,Kit Colher + Desempenadeira,Ferramentas,Ferramentas Manuais,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P019.png
+P020,Carrinho de Mão 60L,Ferramentas,Equipamentos de Apoio,https://raw.githubusercontent.com/iasenai1111-ux/obraforte-imagens/master/fotos/produtos/P020.png
